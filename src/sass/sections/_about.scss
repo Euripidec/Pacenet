@@ -49,6 +49,7 @@
 
       &-text {
         text-align: left;
+        font-size: x-large;
 
         @include respond(tab-port) {
           text-align: left;
